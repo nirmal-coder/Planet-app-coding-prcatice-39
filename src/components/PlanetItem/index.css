@@ -1,0 +1,16 @@
+.itemContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+  background-color: transparent;
+  text-align: center;
+}
+
+.itemContainer img {
+  width: 50%;
+}
+.itemContainer h1 {
+  color: #05acff;
+}
